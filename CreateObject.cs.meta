@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 52abbd42a815278468fdfc69a4ef08e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowFrame: {fileID: 737830871129881808, guid: f83b9d20a3e0f534f86287509d52216a,
+      type: 3}
+  - chainLink: {fileID: 8510018711448321735, guid: dc5ab0385911c774f8a24f118831f415,
+      type: 3}
+  - daggerWhole: {fileID: 2404759077312738820, guid: 6c2b8f238613e1e43bb656998918b646,
+      type: 3}
+  - halberdHead: {fileID: 3529932225388876602, guid: c9a9c331b70c32c44b86266cd3df12f2,
+      type: 3}
+  - longStick: {fileID: 3746803675347349347, guid: e75aed34699d6f94eb3f3ed15fef59d5,
+      type: 3}
+  - nunchukStick: {fileID: 5723855127312115870, guid: b0439287d5cf2234abf08c4f61f57889,
+      type: 3}
+  - scytheBlade: {fileID: 258937215401403332, guid: e277df3f3d07c5b4ab3752a44b33f57a,
+      type: 3}
+  - spearHead: {fileID: 3965964414951795698, guid: 0d1cfd6b5c9925549b7c29dec4696862,
+      type: 3}
+  - spikedBall: {fileID: 5373941020434503461, guid: 433843ce4284f0e4286e1adb10e982af,
+      type: 3}
+  - swordBlade: {fileID: 2554152161326167011, guid: f8caffdc2ef0d524380bf20aa7eb02b3,
+      type: 3}
+  - swordHandle: {fileID: 8812004831551989429, guid: 1ea3e84af37ec81479e72a456ccf9ee5,
+      type: 3}
+  - trideantHead: {fileID: 6792386459675257811, guid: e879a86f480421e43942dcc8fbd245bc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
